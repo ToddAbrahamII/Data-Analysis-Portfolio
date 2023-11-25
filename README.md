@@ -52,8 +52,7 @@ Data Engineering Intern - Pekin Insurance
 
 ## Certifications
 Google Data Analytics Certificate - June 2022 
-**Description**
 
 ## Contact
-LinkedIn: [Todd Abraham](https://www.linkedin.com/in/todd-abraham-ii/)
+LinkedIn: [Todd Abraham](https://www.linkedin.com/in/todd-abraham-ii/).
 Email: tjabraham12@yahoo.com
