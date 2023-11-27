@@ -23,7 +23,7 @@ My [Resume](Resume-Link)
 
 ### Python
 
-  #### Instagram Reach Analysis
+  - #### Instagram Reach Analysis
 
 ### SQL
 
@@ -36,9 +36,9 @@ My [Resume](Resume-Link)
 
 ### Power BI
 
-  #### Diagnostics Data Visualization
-  - **Description:** Cleaned, transformed and analyzed data from two tables. Created Power BI to help communicate stories from the data using Averages, Correlations, Filtering, and Standard Deviations
-  - **Link:** [Diagnostics Data Visualization](https://app.powerbi.com/groups/me/reports/982b31f7-66d7-4a9c-8554-7b92df369199/ReportSectionfe628475d50300908846?experience=power-bi)
+  - #### Diagnostics Data Visualization
+      - **Description:** Cleaned, transformed and analyzed data from two tables. Created Power BI to help communicate stories from the data using Averages, Correlations, Filtering, and Standard Deviations
+      - **Link:** [Diagnostics Data Visualization](https://app.powerbi.com/groups/me/reports/982b31f7-66d7-4a9c-8554-7b92df369199/ReportSectionfe628475d50300908846?experience=power-bi)
 
 ## Education
 Illinois State University
