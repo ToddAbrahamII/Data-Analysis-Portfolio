@@ -10,6 +10,8 @@ My [Resume](Resume-Link)
      - Python
           - Instagram Reach Analysis
      - SQL
+          - Diagnostics Data Cleaning & Analysis
+          - Video Game Data Sales Data Analysis
      - R
      - Tableau
      - Power BI
@@ -26,6 +28,8 @@ My [Resume](Resume-Link)
   - #### Instagram Reach Analysis
 
 ### SQL
+  - #### Diagnostics Data Cleaning & Analysis
+  - #### Video Game Sales Data Analysis
 
 
 ### R
@@ -50,11 +54,11 @@ IT Finance Analyst Intern - Pekin Insurance
 - **Description:** Used Excel and QlikSense to create visualizations related to company-wide allocations and department time compliances. These charts would check the percentage of employees who have correctly inputted their time cards towards projects in ServiceNow. 
 
 Data Engineering Intern - Pekin Insurance
-- **Description:** Created QlikSense Visualization App that loaded data from Snowflake into various tables and charts. The visualization kept track of customers with paperless billing over the past 12 months. It automatically updates each month using SQL to ensure the data is recent
+- **Description:** Created QlikSense Visualization App that loaded data from Snowflake into various tables and charts. The visualization kept track of customers with paperless billing over the past 12 months. It automatically updates each month using SQL to ensure the data is recent. Created a Data Pipeline that runs SQL on the first of every month and updates relevant data in QLIK Application. 
 
 ## Certifications
 - Google Data Analytics Certificate - June 2022 
 
 ## Contact
-- LinkedIn: [Todd Abraham](https://www.linkedin.com/in/todd-abraham-ii/).
+- LinkedIn: [Todd Abraham](https://www.linkedin.com/in/todd-abraham-ii/)
 - Email: tjabraham12@yahoo.com
