@@ -33,6 +33,8 @@ My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/T
     - **Link:** [Diagnostics Data Cleaning and Analysis](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/Diagnostics_Cleaning_Analysis.sql)
     
   - #### Video Game Sales Data Analysis
+    - **Description:** Analyzed Data regarding video game sales throughout the last 40 years. Viewed different aspects of the data such as best reviewed, best selling, and games on most platforms.
+    - **Link:** [Video Game Sales Data Analysis](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/VideoGameData.sql)
 
 
 ### R
