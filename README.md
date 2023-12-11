@@ -29,6 +29,9 @@ My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/T
 
 ### SQL
   - #### Diagnostics Data Cleaning & Analysis
+    - **Description:** Cleaned, transformed, and analyzed data from two tables. Looked at Averages, Standard Deviations, and trends based on date. This would later be turned into a Tableau App
+    - **Link:** [Diagnostics Data Cleaning and Analysis](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/Diagnostics_Cleaning_Analysis.sql)
+    
   - #### Video Game Sales Data Analysis
 
 
