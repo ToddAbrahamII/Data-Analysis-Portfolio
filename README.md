@@ -2,7 +2,7 @@
 ## About
 My name is Todd Abraham II and I am a Senior at Illinois State University majoring in Systems Development and Analyst Sequence. I have worked in data through internships, coursework, certifications, and personal projects. I am using this repo as a chance to showcase all of my skills when it comes to analyzing data!
 
-My [Resume](Resume-Link)
+My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/Todd_Abraham_Resumev1.pdf)
 
 ## Table of Contents
   - About
