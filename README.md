@@ -8,7 +8,7 @@ My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/T
   - About
   - Portfolio Projects
      - Python
-          - Instagram Reach Analysis
+          - Netflix Recommendation System
      - SQL
           - Diagnostics Data Cleaning & Analysis
           - Video Game Data Sales Data Analysis
@@ -25,7 +25,9 @@ My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/T
 
 ### Python
 
-  - #### Instagram Reach Analysis
+  - #### Netflix Recommendation System
+     - **Description:**
+     - **Link:**
 
 ### SQL
   - #### Diagnostics Data Cleaning & Analysis
