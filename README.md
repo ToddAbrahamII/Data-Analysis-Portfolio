@@ -8,7 +8,7 @@ My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/T
   - About
   - Portfolio Projects
      - Python
-          - Netflix Recommendation System
+          - Marathon Exploratory Data Analysis 
      - SQL
           - Diagnostics Data Cleaning & Analysis
           - Video Game Data Sales Data Analysis
@@ -25,9 +25,9 @@ My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/T
 
 ### Python
 
-  - #### Netflix Recommendation System
-     - **Description:**
-     - **Link:**
+  - #### Marathon Exploratory Data Analysis
+     - **Description:** Cleaned, transformed, and analyzed data from a marathon dataset from Kaggle. I filtered the marathons to only show USA marathons from 2020. I used the pandas and seaborn libraries for this project. I then made some charts and answered some questions with the code!
+     - **Link:** [Marathon Exploratory Data Analysis](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/MarathonDataExploration.ipynb)
 
 ### SQL
   - #### Diagnostics Data Cleaning & Analysis
