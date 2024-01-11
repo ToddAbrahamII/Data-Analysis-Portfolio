@@ -43,7 +43,9 @@ My [Resume](https://github.com/ToddAbrahamII/Data-Analysis-Portfolio/blob/main/T
 
 
 ### Tableau
-
+ - #### Emergency Room Dashboard
+      - **Description:** Dashboard with data disualizations created using mock emergency room data. The dashboard shows average wait times, patient satisfaction, a bar graph of patient race, bar graph of Department referrals, a heat map and age demographic line graph. 
+      - **Link:** [Emergency Room Dashboard](https://public.tableau.com/app/profile/todd.abraham7166/viz/EmergencyRoomDashboard_17050032314200/Dashboard1?publish=yes)
 
 ### Power BI
 
